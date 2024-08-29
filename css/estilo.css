@@ -1,12 +1,15 @@
-
 :root {
-    --cor-primaria: #640109; 
-    --cor-secundaria: #ff7b00; 
-    --cor-terciaria: #641801; 
+    --cor-primaria: #640109;
+    --cor-secundaria: #ff7b00;
+    --cor-terciaria: #641801;
 }
 
 
-body, h1, p, ul, li {
+body,
+h1,
+p,
+ul,
+li {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
